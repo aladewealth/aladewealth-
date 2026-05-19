@@ -1,6 +1,6 @@
 Hi, I'm Alade Wea 👋
 
-Software Engineering Student • Developer • Builder RHINO
+Software Engineering Student • Developer • Builder Atoms.
 
 I’m a 17-year-old developer from Nigeria focused on building real-world technology products across AI, aerospace, ocean intelligence, logistics, and software.
 
